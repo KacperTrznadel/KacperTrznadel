@@ -1,4 +1,4 @@
-#👋 Hi, I'm Kacper
+# 👋 Hi, I'm Kacper
 
 # 💫 About Me:
 👨‍🎓 First-year Engineering Student of Computer Science at Gdańsk University of Technology, passionate about Machine Learning and Deep Learning.<br><br>🔬 Member of the "Gradient" Scientific Club, exploring AI and its real-world applications.<br><br>🤖 Interested in Generative AI, including text generation, chatbots, and image/video synthesis. Currently learning about Computer Vision.<br><br>🛠️ Currently developing Flashcards Maker 📸 → 📝 → 🎴 a project leveraging OpenCV for image scanning, AI-powered text recognition, and automatic flashcard creation with ChatGPT API.<br><br>💡 Always open to collaboration on innovative AI projects!
